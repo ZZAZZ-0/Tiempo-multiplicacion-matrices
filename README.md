@@ -16,6 +16,9 @@ Este programa en C mide el tiempo de ejecución de la multiplicación de matrice
  - kji
 El objetivo es analizar el impacto del orden de acceso a los datos en la caché y su efecto en el rendimiento.
 ---------------------------------------------------------------------------------------------------------------------------------------
+* Contenido
+- mult_mat.c - Programa principal
+---------------------------------------------------------------------------------------------------------------------------------------
 * Características
  - Inicialización de matrices con valores aleatorios.
  - Implementación de seis variantes de multiplicación de matrices.
